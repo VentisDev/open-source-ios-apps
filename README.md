@@ -1,4 +1,5 @@
 # Open-Source iOS Apps
+# Changelog v1.4
 
 <!-- 
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
